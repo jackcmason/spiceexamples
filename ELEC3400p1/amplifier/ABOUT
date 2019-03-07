@@ -1,1 +1,2 @@
 This amplifier should map -0.5V to 0.5V -> 0 to 3.6V
+get the SPICE model for the TL072 from the ti website
